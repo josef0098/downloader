@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `iTunes64Setup.exe` |
-| **Total Size** | **5 parts** - **198.42 MB** |
+| **Total Size** | **6 parts** - **264.87 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -22,6 +22,7 @@
 | 3 | `iTunes64Setup.7z.003` | [Download](https://github.com/josef0098/downloader/raw/main/downloads/iTunes64Setup/iTunes64Setup.7z.003) |
 | 4 | `iTunes64Setup.7z.004` | [Download](https://github.com/josef0098/downloader/raw/main/downloads/iTunes64Setup/iTunes64Setup.7z.004) |
 | 5 | `iTunes64Setup.7z.005` | [Download](https://github.com/josef0098/downloader/raw/main/downloads/iTunes64Setup/iTunes64Setup.7z.005) |
+| 6 | `iTunes64Setup.7z.006` | [Download](https://github.com/josef0098/downloader/raw/main/downloads/iTunes64Setup/iTunes64Setup.7z.006) |
 
 ---
 
